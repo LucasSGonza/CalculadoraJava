@@ -337,8 +337,8 @@ public class TelaPrincipal extends javax.swing.JFrame {
 
             }
 
-            this.num = 0;
-            this.num2 = 0;
+            //this.num = 0;
+            //this.num2 = 0;
             this.sinal = "";
 
         } catch (NumberFormatException | NullPointerException a) {
