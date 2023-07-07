@@ -1,12 +1,12 @@
 package Principal;
 
-import View.TelaPrincipal;
+import View.TelaCalculadoraNova;
 
 public class Principal {
 
     public static void main(String[] args) {
 
-        TelaPrincipal tela = new TelaPrincipal();
+        TelaCalculadoraNova tela = new TelaCalculadoraNova();
         tela.setVisible(true);
 
     }
